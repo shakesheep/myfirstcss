@@ -1,0 +1,26 @@
+html,
+body{
+    height: 100%;
+    font-family:"Open Sans", sans-serif; 
+    color: rgb(71, 117, 148);
+    background: rgb(229, 238, 240);
+}
+
+h1{
+    font-size: 70px;
+    color:rgb(60, 91, 134);
+}
+
+h2{
+    font-size: 36px;
+}
+
+p{
+    font-size: 13px;
+    color:rgb(94, 156, 135);
+    line-height: 2;
+}
+
+img{
+    max-width: 100%;
+}
